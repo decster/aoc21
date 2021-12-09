@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+.cproject
+.project
+.settings/
+.idea/
+.vscode
+!.gitignore
+!.clang-format
+!.github
+build/
